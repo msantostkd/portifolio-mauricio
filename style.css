@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-color: #007acc;
+  background-color: #ff8800;
   color: white;
   text-align: center;
   padding: 2rem 1rem;
@@ -22,7 +22,7 @@ main {
 }
 
 h2 {
-  color: #007acc;
+  color: #800080;
 }
 
 ul {
@@ -31,7 +31,7 @@ ul {
 }
 
 a {
-  color: #007acc;
+  color: #800080;
   text-decoration: none;
 }
 
