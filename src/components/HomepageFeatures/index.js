@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: ' Automação Inteligente com RPA',
+    Svg: require('@site/static/img/automation.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Expertise em desenvolvimento, implantação e governança de automações utilizando plataformas líderes como Automation Anywhere (v11 e A360), 
+        Blue Prism, Power Automate e UiPath. Experiência em C# para extensibilidade e soluções personalizadas.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Arquitetura de Soluções e Cloud',
+    Svg: require('@site/static/img/cloud_architecture.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Capacidade de traduzir requisitos de negócio em soluções arquitetônicas robustas e escaláveis. Vivência em ambientes Cloud (Azure, AWS, GCP), 
+        integração de sistemas e tecnologias como Containers (Kubernetes/AKS), Databricks e DataFactory.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Desenvolvimento Full-Stack & Metodologias Ágeis',
+    Svg: require('@site/static/img/fullstack_agile.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Proficiência em linguagens de programação como Java, NodeJS, C#, Python e seus respectivos frameworks (SpringBoot, FastAPI, Flask). 
+        Experiência com práticas de CI/CD, Git e metodologias ágeis (SCRUM, Lean Digital) para entrega contínua e eficiente.
       </>
     ),
   },

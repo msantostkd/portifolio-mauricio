@@ -1,7 +1,11 @@
 .features {
   display: flex;
   align-items: center;
+<<<<<<< HEAD
   padding: 2rem 0;
+=======
+  padding: 4rem 0;
+>>>>>>> 8602677 (Ajustes de rota, links e conteúdo da homepage)
   width: 100%;
 }
 

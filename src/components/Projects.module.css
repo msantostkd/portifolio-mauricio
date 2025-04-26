@@ -1,0 +1,63 @@
+.projects {
+    padding: 4rem 0;
+    background-color: #fff;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .container h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #333;
+  }
+  
+  .projectList {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+  }
+  
+  .projectItem {
+    padding: 1.5rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .projectItem h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    color: #333;
+  }
+  
+  .projectItem p {
+    line-height: 1.6;
+    color: #555;
+    margin-bottom: 1rem;
+  }
+  
+  .technologies {
+    margin-bottom: 1rem;
+  }
+  
+  .techBadge {
+    display: inline-block;
+    background-color: #e0e0e0;
+    color: #333;
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+    margin-right: 0.5rem;
+    font-size: 0.9rem;
+  }
+  
+  .projectItem a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .projectItem a:hover {
+    text-decoration: underline;
+  }
