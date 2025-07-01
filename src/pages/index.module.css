@@ -1,17 +1,10 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> 8602677 (Ajustes de rota, links e conteúdo da homepage)
 /**
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
  */
 
-<<<<<<< HEAD
-.heroBanner {
-=======
  .heroBanner {
->>>>>>> 8602677 (Ajustes de rota, links e conteúdo da homepage)
   padding: 4rem 0;
   text-align: center;
   position: relative;

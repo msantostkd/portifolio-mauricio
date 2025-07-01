@@ -1,6 +1,6 @@
 # Trajetória Profissional
 
-## Spread Sistemas e Automação (2025 - Atual)
+## Spread Sistemas e Automação (01/2025 - 06/2025)
 •	Desenvolvimento de automações em Blue Prism.
 •	Desenvolvimento em .NET (C#) para backend e front-end.
 •	Gestão do ciclo de vida de aplicações via Azure DevOps (CI/CD).
@@ -21,7 +21,7 @@
 •	Apresentação do desenho de soluções no comitê de validação
 
 
-## Itaú-Unibanco (2022 - 2024)
+## Itaú-Unibanco (07/2022 - 10/2024)
 •	Governança e monitoração do Automation Anywhere.
 •	Suporte a desenvolvedores e disseminação de boas práticas.
 •	Participação em dailys e sprint reviews.
@@ -31,7 +31,7 @@
 •	Participação de comitê de validação de arquitetura de soluções
 
 
-## Grupo Boticário (2022)
+## Grupo Boticário (01/2022 - 01/2022)
 •	Desenvolvimento e sustentação de automações (Blue Prism, UiPath).
 •	Documentação (SDD), análise de processos e melhorias.
 •	Mentoria e orientação de novos desenvolvedores.
@@ -40,7 +40,7 @@
 •	Participação de comitê de validação de arquitetura de soluções
 
 
-## Automation Anywhere Inc. (2019 - 2021)
+## Automation Anywhere Inc. (05/2019 - 03/2021)
 •	Suporte global a clientes e parceiros.
 •	Validação e implantação de ambientes RPA.
 •	Desenvolvimento de PoCs.

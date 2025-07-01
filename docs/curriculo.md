@@ -13,21 +13,34 @@ title: Currículo Profissional
 
 ### 🎯 Objetivo
 
-Atuar como Analista de Processos ou Arquiteto de Soluções, aplicando conhecimentos em tecnologias emergentes, automação, gerenciamento de processos e arquitetura corporativa para promover inovação e eficiência organizacional.
+Atuar como Analista de **Processos com foco em Dados**, aplicando conhecimentos em tecnologias emergentes, automação, gerenciamento de processos e arquitetura corporativa para promover inovação e eficiência organizacional.
 
 ### 🧰 Qualificações Profissionais
 
 #### RPA e Automação:
 
 - Expertise nas plataformas Automation Anywhere (v11 e A360), Blue Prism, Power Automate e UiPath.
-- Desenvolvimento, implantação e governança de automações em C#.
+- Desenvolvimento, implantação e governança de automações em C# e Python.
+
+#### Gestão de Processos e Arquitetura Organizacional:
+
+- Mapeamento de processos novos e existentes com identificação de riscos e definição de controles.
+- Documentação detalhada de modelos de processo alinhados à arquitetura corporativa e Cadeia de Valor.
+- Análise e documentação das inter-relações entre processo, pessoas, tecnologia e organização.
+- Garantia de aderência dos processos às políticas corporativas e publicação em plataformas oficiais.
+- Comunicação estruturada e treinamento sobre novos processos implantados.
+- Aplicação de revisões periódicas para identificação de erros, gargalos e oportunidades de melhoria contínua.
+- Suporte a estruturação de requisitos operacionais para novos produtos, serviços e reestruturações organizacionais.
+- Elaboração e execução de planos de gestão da mudança (Change Management).
+- Apoio à liderança na análise crítica de processos e proposição de melhorias alinhadas aos objetivos do negócio.
+
 
 #### Arquitetura de Soluções e Corporativa:
 - Tradução de requisitos de negócio em soluções arquitetônicas.
 - Experiência com Salesforce (Financial Service Cloud, Marketing Cloud, Datorama, Interaction Studio).
 - Vivência em Cloud (Azure, AWS, GCP) e integração de sistemas.
 - Containers e Kubernetes (AKS), Databricks, DataFactory, Functions e VMs no Azure CSP.
-- Banco de dados SQL e NoSQL (MongoDB, Cassandra, SQL Server, Redis, PostgreSQL, DB2).
+- Banco de dados SQL e NoSQL (MongoDB, SQL Server, PostgreSQL, DB2).
 
 #### Programação: 
 - Java, NodeJS, C#, Python e frameworks (SpringBoot, FastAPI, Flask).
@@ -61,8 +74,8 @@ Atuar como Analista de Processos ou Arquiteto de Soluções, aplicando conhecime
 
 ### 💼 Experiência Profissional
 
-- #### Spread Sistemas e Automação Ltda 
-#### Líder de Serviços de Tecnologia (Desde Jan/2025)
+### Spread Sistemas e Automação Ltda 
+#### Líder de Serviços de Tecnologia (Jan/2025 - Jun/2025)
 
 - Desenvolvimento de automações em Blue Prism e C#.
 - Gestão de ciclo de vida de aplicações via Azure DevOps (CI/CD).
@@ -71,7 +84,7 @@ Atuar como Analista de Processos ou Arquiteto de Soluções, aplicando conhecime
 - Acompanhamento da malha de aplicativos e suporte operacional.
 - Desenvolvimento de desenhos de arquitetura e participação em comitês de validação.
 
-- #### Itaú-Unibanco
+### Itaú-Unibanco
 #### Analista de Engenharia de Processos Pleno (Jul/2022 – Out/2024)
 
 - Governança e monitoramento da plataforma Automation Anywhere.
@@ -83,6 +96,16 @@ Atuar como Analista de Processos ou Arquiteto de Soluções, aplicando conhecime
 - Automation Anywhere Inc.Analista de Suporte RPA Sênior (Mai/2019 – Nov/2021)
 - Suporte global e validação de ambientes RPA.
 - Desenvolvimento de PoCs e soluções arquiteturais.
+
+### Automation Anywhere Inc.
+#### Analista de Suporte RPA Sênior (Mai/2019 – Nov/2021)
+- Suporte global a clientes e parceiros.
+- Validação e implantação de ambientes RPA.
+- Desenvolvimento de PoCs.
+- Consultoria em hiperautomação e validação de arquiteturas.
+- Desenvolvimento de desenho de arquitetura
+- Participação de comitê de validação de arquitetura de soluções
+
 
 ### 🎓 Formação Acadêmica
 
@@ -103,4 +126,4 @@ Atuar como Analista de Processos ou Arquiteto de Soluções, aplicando conhecime
 - Inglês Avançado – Comunicação técnica e de negócios com suporte global e clientes internacionais.
 
 
-[Baixar meu CV (PDF)](../static/img/MauricioDosSantosAlves_novo.pdf)
+[Baixar meu CV (PDF)](../static/img/MauricioDosSantosAlves_novo.pdf)s

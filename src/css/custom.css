@@ -1,8 +1,4 @@
 :root {
   --ifm-color-primary: #ff8800;  /* Laranja */
-<<<<<<< HEAD
-  --ifm-color-secondary: #330033; /* Roxo */
-=======
-  --ifm-color-secondary: #ffffff; /* Roxo */
->>>>>>> 8602677 (Ajustes de rota, links e conteúdo da homepage)
+  --ifm-color-secondary: #ffffff; /* Branco */
 }

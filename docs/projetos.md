@@ -10,7 +10,7 @@ title: Projetos Recentes
 
 **Tecnologias:** Automation Anywhere, RPA, SQL Server
 
-[Link para o projeto (se houver)](#)
+[Em breve Link do Projeto)](#)
 
 ---
 
@@ -20,9 +20,11 @@ title: Projetos Recentes
 
 **Tecnologias:** Azure, AKS, Docker, C#, .NET Core
 
-[Link para o projeto (se houver)](#)
+[Em breve Link do Projeto](#)
 
 ---
+
+<!--
 
 ## Pipeline de CI/CD para Aplicação Java
 
@@ -30,4 +32,6 @@ title: Projetos Recentes
 
 **Tecnologias:** Java, SpringBoot, Azure DevOps, Git, Maven
 
-[Link para o projeto (se houver)](#)
+[Em breve Link do Projeto](#)
+
+-->
